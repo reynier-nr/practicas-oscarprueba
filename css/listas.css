@@ -1,0 +1,56 @@
+/* DOCUMENTO CSS*/
+
+* { margin: 0;
+    padding: 0; }
+
+body { background-color: #e3f7d1;
+       font-family: "Google Sans", sans-serif;}
+
+h1, h4 { text-transform: uppercase;
+         background-color: #367736;
+         text-align: center; }
+
+h1 { padding: 32px 0px; }
+          
+ol, ul  { margin-left: 50px; }
+
+h2, h3 { padding: 10px 0px;
+         background-color: transparent;
+         margin: 0px 0px; }
+
+.listas { background-color: white;
+          width: 85%;
+          margin:0px auto ;
+          padding: 15px; }
+
+.espaciadotop { margin-top: 25px;
+                 }
+.epaciadobottom { margin-bottom: 25px;
+                   }
+
+h4 { padding: 10px 15px;
+     width: 100%;
+     margin: 0px auto 16px auto;
+     box-sizing: border-box; }
+
+.listas img { margin-right: 16px;
+              margin-bottom: 16px;
+              margin-top: 16px;
+              float: left; }
+
+section img.dog { margin-top: 0px; }
+
+section img.mountain { float: right;
+                       margin-right: 0px;
+                       margin-left: 16px; }
+
+.pie { background-color: #367736;
+       text-align: center;
+       padding: 16px 0px;
+       margin-top: 25px; }
+
+.listas p { line-height: 1.5;
+            padding: 16px 0px; }
+
+
+

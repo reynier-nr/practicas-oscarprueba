@@ -1,0 +1,31 @@
+/*DOCUMENTO CSS*/
+
+.logo {width: 120px;
+       height: 120px;
+       margin: auto;
+       text-align: center;
+       font-size: 7em;
+       padding: 32px; }
+
+body { font-family: "Montserrat", sans-serif;
+        line-height: 1.5; }
+
+
+
+#cuerpo { width: 100%;
+          min-height: 1px;
+          }
+#cuerpo p { font-size: 140%; }
+
+#cuerpo article { width: 65%;
+                  margin: 0px auto; }
+
+.container { display: flex;
+             width: 100%;
+            justify-content: space-between; }
+
+
+.items-col2 { width: 49%; }
+
+.items-col2 img, .items-col1 img { width: 100%;
+                                  height: auto; }
